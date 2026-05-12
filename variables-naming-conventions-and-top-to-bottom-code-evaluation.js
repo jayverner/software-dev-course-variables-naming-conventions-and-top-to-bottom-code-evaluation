@@ -24,9 +24,9 @@ Things to reflect on:
   
 */
 
-let a = "Alice";
-let b = 5;
-let c = 20;
-let d = a + " bought " + b + " items for $" + c + ".";
+let name = "Alice";
+let num5 = 5;
+let num20 = 20;
+let itemsBought = name + " bought " + num5 + " items for $" + num20 + ".";
 
 console.log(d);
